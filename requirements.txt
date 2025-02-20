@@ -1,5 +1,5 @@
 streamlit
-gemini.generativeai
+google.generativeai
 openai
 supabase
 python-dotenv
