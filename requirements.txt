@@ -1,0 +1,6 @@
+streamlit
+gemini.generativeai
+openai
+supabase
+python-dotenv
+pandas
